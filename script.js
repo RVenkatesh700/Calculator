@@ -27,4 +27,18 @@ function Square(){
 }
 
 
+function SquareRoot(){
+    outputScreen.value=Math.sqrt(outputScreen.value);
+}
+
+function sin(){
+    outputScreen.value=Math.sin(outputScreen.value);
+}
+
+function cos(){
+    outputScreen.value=Math.cos(outputScreen.value);
+}
  
+function tan(){
+    outputScreen.value=Math.tan(outputScreen.value);
+}
